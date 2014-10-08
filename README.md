@@ -2,6 +2,8 @@
 
 Ruboty plugin for 小説の書き出し.
 
+![screenshot](screenshot.png)
+
 ## Installation
 
 Add this line to your application's Gemfile:
