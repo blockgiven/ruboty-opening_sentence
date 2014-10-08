@@ -1,4 +1,5 @@
 require "ruboty/opening_sentence/version"
+require "ruboty/handlers/opening_sentence"
 
 module Ruboty
   module OpeningSentence

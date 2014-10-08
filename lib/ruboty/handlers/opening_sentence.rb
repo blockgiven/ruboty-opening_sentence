@@ -1,4 +1,5 @@
 # encoding: UTF-8
+require "ruboty/actions/opening_sentence"
 
 module Ruboty
   module Handlers
