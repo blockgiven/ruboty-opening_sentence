@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 module Ruboty
   module Handlers
     class OpeningSentence
