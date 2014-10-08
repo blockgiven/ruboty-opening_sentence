@@ -2,7 +2,7 @@
 
 module Ruboty
   module Handlers
-    class OpeningSentence
+    class OpeningSentence < Base
       on /(?:書き出し)/, name: 'opening_sentence', description: '小説の書き出しを表示します。'
 
       def opening_sentence(message)

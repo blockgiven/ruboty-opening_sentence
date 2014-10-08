@@ -4,7 +4,7 @@ require 'open-uri'
 
 module Ruboty
   module Actions
-    class OpeningSentence
+    class OpeningSentence < Base
       AOZORA_RANDOM_BOOK_URL = 'http://aozora-api.herokuapp.com/books/random.json'
 
       def call
